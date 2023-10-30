@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/getMovieClone/static/css/main.2c116dd7.css",
+    "main.js": "/getMovieClone/static/js/main.bc523fdd.js",
+    "index.html": "/getMovieClone/index.html",
+    "main.2c116dd7.css.map": "/getMovieClone/static/css/main.2c116dd7.css.map",
+    "main.bc523fdd.js.map": "/getMovieClone/static/js/main.bc523fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c116dd7.css",
+    "static/js/main.bc523fdd.js"
+  ]
+}
